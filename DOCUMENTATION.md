@@ -1,6 +1,7 @@
 # Sales Analytics <br>
 
-**POST** createProduct <br>
+**POST** createProduct 
+<br>
 > http://localhost:8000/api/v1/create-product
 - Example Body Data:
 
