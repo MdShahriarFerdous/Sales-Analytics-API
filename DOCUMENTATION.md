@@ -14,12 +14,14 @@
 **GET** total-revenue
 ---
 > http://localhost:8000/api/v1/api/sales/total-revenue
-**Response**
-> {
-"data": [
-{
-"_id": 0,
-"sum": 3313050
-}
-]
-}
+
+- Response
+  
+  {
+    "data": [
+             {
+             "_id": 0,
+            "sum": 3313050
+             }
+             ]
+  }
