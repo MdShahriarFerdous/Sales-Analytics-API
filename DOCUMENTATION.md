@@ -12,3 +12,14 @@
 | price      | Price of the product (in currency) | 3500        |
 
 **GET** total-revenue
+---
+> http://localhost:8000/api/v1/api/sales/total-revenue
+**Response**
+> {
+"data": [
+{
+"_id": 0,
+"sum": 3313050
+}
+]
+}
