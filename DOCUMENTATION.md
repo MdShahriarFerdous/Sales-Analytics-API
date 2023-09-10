@@ -1,7 +1,7 @@
 # Sales Analytics <br>
 
 **POST** createProduct
-> parameters
+
 | Parameter  | Description                | Example       |
 |------------|----------------------------|---------------|
 | product    | Name of the product        | "WiWU Protective Keyboard" |
