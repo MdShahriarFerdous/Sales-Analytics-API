@@ -4,224 +4,174 @@
 		"product": "Shirt",
 		"quantity": 3,
 		"price": 300,
-		"date": "2022-06-08T15:13:30.176Z",
-		"createdAt": "2023-09-08T15:13:30.180Z",
-		"updatedAt": "2023-09-08T15:13:30.180Z"
+		"date": "2022-06-08T15:13:30.176Z"
 	},
 	{
 		"_id": "64fb3a3e0d86e30f1ce012db",
 		"product": "Polo-Shirt",
 		"quantity": 5,
 		"price": 500,
-		"date": "2022-06-08T15:14:06.336Z",
-		"createdAt": "2023-09-08T15:14:06.337Z",
-		"updatedAt": "2023-09-08T15:14:06.337Z"
+		"date": "2022-06-08T15:14:06.336Z"
 	},
 	{
 		"_id": "64fb3a6b0d86e30f1ce012dd",
 		"product": "Polo-Shirt",
 		"quantity": 2,
 		"price": 500,
-		"date": "2021-03-08T15:14:51.294Z",
-		"createdAt": "2023-09-08T15:14:51.295Z",
-		"updatedAt": "2023-09-08T15:14:51.295Z"
+		"date": "2021-03-08T15:14:51.294Z"
 	},
 	{
 		"_id": "64fb3a780d86e30f1ce012df",
 		"product": "Polo-Shirt",
 		"quantity": 6,
 		"price": 800,
-		"date": "2021-03-08T15:15:04.377Z",
-		"createdAt": "2023-09-08T15:15:04.378Z",
-		"updatedAt": "2023-09-08T15:15:04.378Z"
+		"date": "2021-03-08T15:15:04.377Z"
 	},
 	{
 		"_id": "64fb3a870d86e30f1ce012e1",
 		"product": "Denim-Pant",
 		"quantity": 6,
 		"price": 1200,
-		"date": "2022-05-08T15:15:19.069Z",
-		"createdAt": "2023-09-08T15:15:19.070Z",
-		"updatedAt": "2023-09-08T15:15:19.070Z"
+		"date": "2022-05-08T15:15:19.069Z"
 	},
 	{
 		"_id": "64fb3a8d0d86e30f1ce012e3",
 		"product": "Denim-Pant",
 		"quantity": 2,
 		"price": 1200,
-		"date": "2022-05-08T15:15:25.119Z",
-		"createdAt": "2023-09-08T15:15:25.120Z",
-		"updatedAt": "2023-09-08T15:15:25.120Z"
+		"date": "2022-05-08T15:15:25.119Z"
 	},
 	{
 		"_id": "64fb3a960d86e30f1ce012e5",
 		"product": "Denim-Pant",
 		"quantity": 7,
 		"price": 1500,
-		"date": "2021-02-08T15:15:34.975Z",
-		"createdAt": "2023-09-08T15:15:34.976Z",
-		"updatedAt": "2023-09-08T15:15:34.976Z"
+		"date": "2021-02-08T15:15:34.975Z"
 	},
 	{
 		"_id": "64fb3ac50d86e30f1ce012e7",
 		"product": "Nike-shoe",
 		"quantity": 7,
 		"price": 2000,
-		"date": "2020-10-08T15:16:21.470Z",
-		"createdAt": "2023-09-08T15:16:21.471Z",
-		"updatedAt": "2023-09-08T15:16:21.471Z"
+		"date": "2020-10-08T15:16:21.470Z"
 	},
 	{
 		"_id": "64fb3ad00d86e30f1ce012e9",
 		"product": "Nike-shoe",
 		"quantity": 3,
 		"price": 2000,
-		"date": "2020-10-08T15:16:32.682Z",
-		"createdAt": "2023-09-08T15:16:32.683Z",
-		"updatedAt": "2023-09-08T15:16:32.683Z"
+		"date": "2020-10-08T15:16:32.682Z"
 	},
 	{
 		"_id": "64fb3ad80d86e30f1ce012eb",
 		"product": "Nike-shoe",
 		"quantity": 8,
 		"price": 2000,
-		"date": "2021-02-08T15:16:40.253Z",
-		"createdAt": "2023-09-08T15:16:40.257Z",
-		"updatedAt": "2023-09-08T15:16:40.257Z"
+		"date": "2021-02-08T15:16:40.253Z"
 	},
 	{
 		"_id": "64fb3afb0d86e30f1ce012ed",
 		"product": "O-Code Blazer",
 		"quantity": 3,
 		"price": 5000,
-		"date": "2021-02-08T15:17:15.690Z",
-		"createdAt": "2023-09-08T15:17:15.691Z",
-		"updatedAt": "2023-09-08T15:17:15.691Z"
+		"date": "2021-02-08T15:17:15.690Z"
 	},
 	{
 		"_id": "64fb3b030d86e30f1ce012ef",
 		"product": "O-Code Blazer",
 		"quantity": 7,
 		"price": 8000,
-		"date": "2022-08-08T15:17:23.670Z",
-		"createdAt": "2023-09-08T15:17:23.671Z",
-		"updatedAt": "2023-09-08T15:17:23.671Z"
+		"date": "2022-08-08T15:17:23.670Z"
 	},
 	{
 		"_id": "64fb3b0a0d86e30f1ce012f1",
 		"product": "O-Code Blazer",
 		"quantity": 3,
 		"price": 12000,
-		"date": "2022-08-08T15:17:30.639Z",
-		"createdAt": "2023-09-08T15:17:30.640Z",
-		"updatedAt": "2023-09-08T15:17:30.640Z"
+		"date": "2022-08-08T15:17:30.639Z"
 	},
 	{
 		"_id": "64fbf43e2581032bd5cd95ea",
 		"product": "Phone-case",
 		"quantity": 3,
 		"price": 250,
-		"date": "2022-08-09T04:27:42.567Z",
-		"createdAt": "2023-09-09T04:27:42.571Z",
-		"updatedAt": "2023-09-09T04:27:42.571Z"
+		"date": "2022-08-09T04:27:42.567Z"
 	},
 	{
 		"_id": "64fbf4552581032bd5cd95ec",
 		"product": "Phone-case",
 		"quantity": 2,
 		"price": 250,
-		"date": "2019-01-09T04:28:05.037Z",
-		"createdAt": "2023-09-09T04:28:05.038Z",
-		"updatedAt": "2023-09-09T04:28:05.038Z"
+		"date": "2019-01-09T04:28:05.037Z"
 	},
 	{
 		"_id": "64fbf4d02581032bd5cd95ee",
 		"product": "iPhone 13 Pro Max",
 		"quantity": 5,
 		"price": 135000,
-		"date": "2019-01-09T04:30:08.016Z",
-		"createdAt": "2023-09-09T04:30:08.017Z",
-		"updatedAt": "2023-09-09T04:30:08.017Z"
+		"date": "2019-01-09T04:30:08.016Z"
 	},
 	{
 		"_id": "64fbf4db2581032bd5cd95f0",
 		"product": "iPhone 13 Pro Max",
 		"quantity": 2,
 		"price": 135000,
-		"date": "2023-06-09T04:30:19.775Z",
-		"createdAt": "2023-09-09T04:30:19.776Z",
-		"updatedAt": "2023-09-09T04:30:19.776Z"
+		"date": "2023-06-09T04:30:19.775Z"
 	},
 	{
 		"_id": "64fbf50f2581032bd5cd95f2",
 		"product": "iPhone XS",
 		"quantity": 4,
 		"price": 42000,
-		"date": "2023-04-09T04:31:11.408Z",
-		"createdAt": "2023-09-09T04:31:11.409Z",
-		"updatedAt": "2023-09-09T04:31:11.409Z"
+		"date": "2023-04-09T04:31:11.408Z"
 	},
 	{
 		"_id": "64fbf5132581032bd5cd95f4",
 		"product": "iPhone XS",
 		"quantity": 2,
 		"price": 42000,
-		"date": "2023-06-09T04:31:15.313Z",
-		"createdAt": "2023-09-09T04:31:15.314Z",
-		"updatedAt": "2023-09-09T04:31:15.314Z"
+		"date": "2023-06-09T04:31:15.313Z"
 	},
 	{
 		"_id": "64fbf5172581032bd5cd95f6",
 		"product": "iPhone XS",
 		"quantity": 6,
 		"price": 42000,
-		"date": "2023-04-09T04:31:19.359Z",
-		"createdAt": "2023-09-09T04:31:19.360Z",
-		"updatedAt": "2023-09-09T04:31:19.360Z"
+		"date": "2023-04-09T04:31:19.359Z"
 	},
 	{
 		"_id": "64fbf5502581032bd5cd95f8",
 		"product": "MacBook Pro M1 8/512GB",
 		"quantity": 3,
 		"price": 140000,
-		"date": "2023-09-09T04:32:16.394Z",
-		"createdAt": "2023-09-09T04:32:16.395Z",
-		"updatedAt": "2023-09-09T04:32:16.395Z"
+		"date": "2023-09-09T04:32:16.394Z"
 	},
 	{
 		"_id": "64fbf5542581032bd5cd95fa",
 		"product": "MacBook Pro M1 8/512GB",
 		"quantity": 7,
 		"price": 140000,
-		"date": "2023-09-09T04:32:20.798Z",
-		"createdAt": "2023-09-09T04:32:20.798Z",
-		"updatedAt": "2023-09-09T04:32:20.798Z"
+		"date": "2023-09-09T04:32:20.798Z"
 	},
 	{
 		"_id": "64fbf5582581032bd5cd95fc",
 		"product": "MacBook Pro M1 8/512GB",
 		"quantity": 2,
 		"price": 140000,
-		"date": "2023-09-09T04:32:24.422Z",
-		"createdAt": "2023-09-09T04:32:24.423Z",
-		"updatedAt": "2023-09-09T04:32:24.423Z"
+		"date": "2023-09-09T04:32:24.422Z"
 	},
 	{
 		"_id": "64fbf59f2581032bd5cd95fe",
 		"product": "WiWU Protective Keyboard",
 		"quantity": 2,
 		"price": 3500,
-		"date": "2023-09-09T04:33:35.107Z",
-		"createdAt": "2023-09-09T04:33:35.108Z",
-		"updatedAt": "2023-09-09T04:33:35.108Z"
+		"date": "2023-09-09T04:33:35.107Z"
 	},
 	{
 		"_id": "64fbf5a22581032bd5cd9600",
 		"product": "WiWU Protective Keyboard",
 		"quantity": 1,
 		"price": 3500,
-		"date": "2023-09-09T04:33:38.709Z",
-		"createdAt": "2023-09-09T04:33:38.710Z",
-		"updatedAt": "2023-09-09T04:33:38.710Z"
+		"date": "2023-09-09T04:33:38.709Z"
 	}
 ]
