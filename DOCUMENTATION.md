@@ -5,11 +5,12 @@
 > http://localhost:8000/api/v1/create-product
 - Example Body Data:
 
-| key  | Description                | value      |
-|------------|----------------------------|---------------|
-| product    | Name of the product        | "WiWU Protective Keyboard" |
-| quantity   | Quantity of the product    | 1             |
-| price      | Price of the product (in currency) | 3500        |
+| key  | Description                | value      | type                         | 
+|------------|----------------------------|---------------|----------------------
+| product    | Name of the product        | "WiWU Protective Keyboard" | String  |
+| quantity   | Quantity of the product    | 1             | Number               |
+| price      | Price of the product (in currency) | 3500  | Number               |
+| date       | Created date               |   Date.now    | Date                 |
 
 **GET** total-revenue
 ---
