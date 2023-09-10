@@ -3,14 +3,16 @@
 > You are tasked with building a RESTful API for sales analytics using MongoDB, Mongoose, and Express.js. The API should provide various endpoints to analyze sales data stored in a MongoDB database.
 
 **Requirements:**
-
--   [x] Create a MongoDB database with a collection named sales. Each document in the collection should have the following structure: {
+Create a MongoDB database with a collection named sales. Each document in the collection should have the following structure:
+``` json
+  {
         "\_id": ObjectId("..."),
         "product": "Product Name",
         "quantity": 5,
         "price": 10,
-        "date": ISODate("2023-09-01T00:00:00Z")}
-
+        "date": ISODate("2023-09-01T00:00:00Z")
+   }
+```
 _Create a Mongoose model for the sales collection._
 
 **Build the following API endpoints:**
